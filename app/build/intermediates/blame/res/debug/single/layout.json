@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/chris/Music/zhy_flowlayout/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/home/chris/Music/zhy_flowlayout/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/chris/Music/zhy_flowlayout/app/build/intermediates/res/merged/debug/layout/activity_auto.xml",
+        "source": "/home/chris/Music/zhy_flowlayout/app/src/main/res/layout/activity_auto.xml"
+    },
+    {
+        "merged": "/home/chris/Music/zhy_flowlayout/app/build/intermediates/res/merged/debug/layout/tv.xml",
+        "source": "/home/chris/Music/zhy_flowlayout/app/src/main/res/layout/tv.xml"
+    },
+    {
+        "merged": "/home/chris/Music/zhy_flowlayout/app/build/intermediates/res/merged/debug/layout/text.xml",
+        "source": "/home/chris/Music/zhy_flowlayout/app/src/main/res/layout/text.xml"
+    },
+    {
+        "merged": "/home/chris/Music/zhy_flowlayout/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/chris/Music/zhy_flowlayout/app/src/main/res/layout/activity_main.xml"
+    }
+]

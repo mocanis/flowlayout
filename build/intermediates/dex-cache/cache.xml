@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chris/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/chris/Music/zhy_flowlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5222229f1c877194b1ede84255497df64b0af853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chris/Music/zhy_flowlayout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e6bc98338c6bc9d158afc23fcb9a73ea349c816">
+        <dex dex="/home/chris/Music/zhy_flowlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_da643ce97f89a87004c9873d0283e72a9e419857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chris/Music/zhy_flowlayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65971c53eafe4d6fa5f1f395ee987583b63bb3e2">
+        <dex dex="/home/chris/Music/zhy_flowlayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e532743a2468083b237731b98bede4ef26952058/classes.dex" />
+    </item>
+
+</items>
